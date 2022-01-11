@@ -1,0 +1,16 @@
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.exe
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.deps.json
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.runtimeconfig.json
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.runtimeconfig.dev.json
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.dll
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\ref\Клиент.dll
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\bin\Debug\net5.0\Клиент.pdb
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.AssemblyInfo.cs
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.dll
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\ref\Клиент.dll
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.pdb
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.genruntimeconfig.cache
+C:\Users\Hi-tech\OneDrive\Рабочий стол\Клиент\obj\Debug\net5.0\Клиент.csproj.AssemblyReference.cache
